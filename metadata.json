@@ -1,0 +1,6 @@
+{
+  "name": "SomosCaja 360 - Caja Menor Somos Uno",
+  "description": "Plataforma digital integral para la administración, seguimiento, legalización y control de caja menor de la Corporación Social Somos Uno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
